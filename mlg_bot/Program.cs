@@ -1,7 +1,6 @@
 ﻿using OpenAI_API;
 using Telegram.Bot.Types;
-//string apiTelegram = "5967585356:AAFvzXv1wZnpyYaAs03yKplYNrvxUJZIt5c";
-//string apiGpt = "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";
+
 namespace mlg_bot
 {
     internal class Program
